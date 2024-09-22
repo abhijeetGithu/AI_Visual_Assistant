@@ -37,5 +37,19 @@ The **AI Visual Assistant** is a web application that utilizes advanced machine 
 - **Additional Sections**: Feel free to add more sections as needed, like FAQs or examples of use cases.
 
 
+## Usage
 
+1. Launch the app and take a picture using your webcam or upload an image.
+2. Click "Describe the image" to get a description.
+3. Click "Read the label" to have the assistant read any text aloud.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create your feature branch.
+3. Commit your changes.
+4. Push to the branch.
+5. Open a Pull Request.
 
