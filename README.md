@@ -13,11 +13,15 @@ The **AI Visual Assistant** is a web application that utilizes advanced machine 
 
 ## Technologies Used
 
-- **Streamlit**
-- **LLaVA**
-- **VITS**
-- **PIL (Pillow)**
-- **Torch**
+- **Streamlit**: An open-source app framework for Machine Learning and Data Science projects, allowing for quick and easy deployment of interactive web applications.
+  
+- **LLaVA**: A multimodal AI model that integrates language and vision, enabling the application to understand and describe images accurately.
+
+- **VITS**: A state-of-the-art text-to-speech model that converts text responses into natural-sounding audio, enhancing user interaction.
+
+- **PIL (Pillow)**: A Python Imaging Library that provides easy-to-use methods for opening, manipulating, and saving various image file formats.
+
+- **Torch**: A deep learning framework that provides tools for building and training machine learning models, essential for handling the underlying computations of the AI models used in the application.
 
 ## Installation
 
