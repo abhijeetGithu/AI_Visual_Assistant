@@ -32,7 +32,7 @@ The **AI Visual Assistant** is a web application that utilizes advanced machine 
    cd AI_Visual_Assistant
    ```
 ### Key Points to Customize:
-- **GitHub URL**: Replace `https://github.com/yourusername/AI_Visual_Assistant.git` with your actual repository link.
+- **GitHub URL**: Replace `https://github.com/abhijeetGithu/AI_Visual_Assistant.git` with your actual repository link.
 - **Requirements**: Ensure your `requirements.txt` file includes all necessary packages.
 - **Additional Sections**: Feel free to add more sections as needed, like FAQs or examples of use cases.
 
