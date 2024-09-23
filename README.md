@@ -2,7 +2,7 @@
 ![Alt text](./Screenshot%202024-09-21%20134323.png)
 ## Overview
 
-The **AI Visual Assistant** is a web application that utilizes advanced machine learning models to describe images and read text from them. Users can capture images using their camera, and the assistant will provide audio descriptions or read any text present in the images.
+The **AI Visual Assistant** is a web application that utilizes advanced machine learning models to describe images and read text from them. Users can capture images using their camera, and the assistant will provide audio descriptions or read any text present in the images.(If you want to run this project then use gitpod and use chart-gpt project under which you have created the files to run it.)
 
 ## Features
 
